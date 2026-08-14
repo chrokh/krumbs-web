@@ -131,7 +131,7 @@ h1 {
 .hero__small-text {
   margin: 20px auto 0;
   max-width: 80ch;
-  font-size: 0.9rem;
+  /* font-size: 0.9rem; */
   color: var(--muted);
 }
 
