@@ -123,15 +123,15 @@ h1 {
 
 .hero__text {
   margin: 20px auto 0;
-  max-width: 60ch;
-  font-size: 1.08rem;
+  max-width: 80ch;
+  font-size: 1.28rem;
   color: var(--muted);
 }
 
 .hero__small-text {
   margin: 20px auto 0;
-  /* max-width: 60ch; */
-  font-size: 0.88rem;
+  max-width: 80ch;
+  font-size: 0.9rem;
   color: var(--muted);
 }
 
